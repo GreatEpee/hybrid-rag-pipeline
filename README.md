@@ -1,5 +1,5 @@
 # hybrid-rag-pipeline
-**[Live Interactive Demo on Hugging Face](https://huggingface.co/spaces/ugabooga/hybrid-rag-pipeline)**
+**[Live Interactive Demo on Hugging Face](https://huggingface.co/spaces/ugabooga/agentic-rag-pipeline)**
 
 ## Overview
 This repository contains the source code for an Agentic Retrieval-Augmented Generation (RAG) application. The agent is designed to answer questions based on the **Valve Employee Handbook** while maintaining the ability to query the live internet for external information. The system uses LangGraph to dynamically route user queries to the appropriate tool based on the context of the prompt.
