@@ -2,8 +2,8 @@ import streamlit as st
 from langchain_core.messages import HumanMessage, AIMessage
 from agent import agent 
 
-st.set_page_config(page_title="Hybrid RAG Pipeline", page_icon="⚙️")
-st.title("🤖 Valve Employee Handbook Agent")
+st.set_page_config(page_title="Agentic RAG Pipeline", page_icon="⚙️")
+st.title("🤖 Agentic RAG Pipeline")
 st.markdown("Dynamically routing user queries between internal vector databases and live web APIs. Ask me anything about the Valve employee handbook or live web data.")
 
 if "messages" not in st.session_state:
