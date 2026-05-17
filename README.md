@@ -66,6 +66,8 @@ The retrieval and generation pipelines were quantitatively evaluated using the R
 * **Answer Relevancy:** Measuring how directly the generated answer addresses the user's initial prompt.
 
 <div align="center">
-<img width="539" height="454" alt="Ragas Evaluation Metrics" src="https://github.com/user-attachments/assets/8e77a319-60c9-48b8-a045-aad2d15f3283" />
+  
+<img width="537" height="449" alt="Ragas Evaluation Metrics" src="https://github.com/user-attachments/assets/910fe82b-c0a4-412d-9181-27671c15ad68" />
+
 </div>
    
