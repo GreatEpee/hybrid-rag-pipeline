@@ -1,0 +1,16 @@
+langchain
+langchain-groq
+langchain-google-genai
+langchain-pinecone
+langchain-huggingface
+langgraph
+pinecone-client
+pypdf
+python-dotenv
+ragas
+sentence-transformers
+datasets
+matplotlib
+setuptools<82
+streamlit
+tavily-python
